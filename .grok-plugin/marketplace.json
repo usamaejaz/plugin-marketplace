@@ -400,12 +400,12 @@
       "name": "socialbu",
       "description": "Connect to SocialBu to create and schedule social media posts, manage connected accounts and queues, review analytics, and work with automations, curated content, media, and social listening.",
       "category": "productivity",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": { "name": "SocialBu" },
       "source": {
         "source": "url",
         "url": "https://github.com/socialbu/socialbu-agent.git",
-        "sha": "4ead3086ec1b7c76fab1f1bf7efceae36dcf3a9e"
+        "sha": "f1ce692c17f938ce5311ec67b851556e66e0b497"
       },
       "homepage": "https://socialbu.com/mcp-server",
       "keywords": ["socialbu", "socialbu mcp", "socialbu scheduling"],

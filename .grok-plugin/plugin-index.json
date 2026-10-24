@@ -1139,8 +1139,8 @@
       }
     },
     "socialbu": {
-      "sha": "4ead3086ec1b7c76fab1f1bf7efceae36dcf3a9e",
-      "version": "1.0.2",
+      "sha": "f1ce692c17f938ce5311ec67b851556e66e0b497",
+      "version": "1.0.3",
       "components": {
         "mcpServers": [
           {
